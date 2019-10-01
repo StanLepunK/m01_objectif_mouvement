@@ -7,11 +7,12 @@ Chaque exercice rapporte des points, pour valider un module il faut obternir au 
 Dés que la norme n'est pas respectée, l'exercice est considéré comme raté.
 
 L'ensemble des exercices sont à renvoyer par mail au correcteur en respectant l'arborescence et le nommage des dossiers, sous-dossiers et nom de fichiers. Si l'arborescence n'est pas respectée l'exercice ou le module ne seront pas corrigés et considérés comme ratés.
-
+```
 dossier : nom prénom
 sous-dossier : module
 sous-dossier : exercice
 fichier : nom.pde
+```
 
 >exemple
 Maurice Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde
