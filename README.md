@@ -14,11 +14,11 @@ sous-dossier : exercice
 fichier : nom.pde
 ```
 
->exemple
+* exemple
 Maurice Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde
 
 contraintes : 
-respecter la norme https://github.com/StanLepunK/The_way_of_creative_code/blob/master/norme_voie_du_code.md
+respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
 
 
 ## m01_ex00_ellipse
