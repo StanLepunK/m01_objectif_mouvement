@@ -15,7 +15,7 @@ fichier : nom.pde
 ```
 
 * exemple
-Maurice Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde
+`Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
 
 contraintes : 
 respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
@@ -32,9 +32,9 @@ Faire apparaitre un cercle qui suit le position de la souris.
 ```
 primitive : 
 globale : 
-operateur : 
-methodes primaire : setup(), draw()
-methodes secondaire : size(), ellipse()
+opérateur : 
+méthode primaire : setup(), draw()
+méthode secondaire : size(), ellipse()
 condition :
 itération :
 ```
@@ -51,9 +51,9 @@ Une couleur pour l'arrière plan et une couleur pour le cercle, pas de contour.
 ```
 primitive : 
 globale : mousePressed
-operateur : 
-methodes primaire : setup(), draw()
-methodes secondaire : size(), ellipse(), background()
+opérateur : 
+méthode primaire : setup(), draw()
+méthode secondaire : size(), ellipse(), background()
 condition :
 itération :
 ```
@@ -69,9 +69,9 @@ Une couleur pour l'arrière plan et une couleur pour le cercle, pas de contour.
 ```
 primitive : 
 globale : mousePressed
-operateur : 
-methodes primaire : setup(), draw()
-methodes secondaire : size(), ellipse(), background(), noStroke(), fill(), rect()
+opérateur : 
+méthode primaire : setup(), draw()
+méthode secondaire : size(), ellipse(), background(), noStroke(), fill(), rect()
 condition :
 itération :
 ```
@@ -87,9 +87,9 @@ Une couleur pour l'arrière plan et une couleur pour le cercle, pas de contour.
 ```
 primitive : int, float
 globale : frameCount, mouseX, mouseY
-operateur : * + -
-methodes primaire : setup(), draw()
-methodes secondaire : size(), abs(), sin(), cos(), background(), noStroke(), fill(), ellipse()
+opérateur : * + -
+méthode primaire : setup(), draw()
+méthode secondaire : size(), abs(), sin(), cos(), background(), noStroke(), fill(), ellipse()
 condition :
 itération :
 ```
@@ -99,16 +99,16 @@ sketch : m01_ex04_detection_1.pde
 xp : 10
 intitulé : 
 Dans une fenêtre de 640 par 480.
-A l'intérieur un rectangle sera placé au centre avec une marge de 50 pixels autour.
+À l'intérieur un rectangle sera placé au centre avec une marge de 50 pixels autour.
 Quand la souris passeras sur le rectangle celui-ci changera de couleur.
 Un couleur pour la marge et deux couleurs pour les différents états du rectangle, pas de contour.
 ```
 ```
 primitive : int
 globale : mouseX, width, height
-operateur : = > / - *
-methodes primaire : setup(), draw()
-methodes secondaire : size(), background(), noStroke(), fill(), rect()
+opérateur : = > / - *
+méthode primaire : setup(), draw()
+méthode secondaire : size(), background(), noStroke(), fill(), rect()
 condition : if, else
 itération :
 ```
@@ -125,9 +125,9 @@ Un couleur pour la marge et deux couleurs pour les différents états du rectang
 ```
 primitive : int
 globale : mouseX, mouseY, idth, height
-operateur : = > < && - *
-methodes primaire : setup(), draw()
-methodes secondaire : size(), background(), noStroke(), fill(), rect()
+opérateur : = > < && - *
+méthode primaire : setup(), draw()
+méthode secondaire : size(), background(), noStroke(), fill(), rect()
 condition : if, else
 itération :
 ```
@@ -143,9 +143,9 @@ L'arrière plan est d'une couleur et le cercle d'une autre, pas de contour.
 ```
 primitive : int, float
 globale : 10
-operateur : = + >
-methodes primaire : setup(), draw()
-methodes secondaire : size(), background(), noStroke(), fill(), ellipse()
+opérateur : = + >
+méthode primaire : setup(), draw()
+méthode secondaire : size(), background(), noStroke(), fill(), ellipse()
 condition : if
 itération :
 ```
@@ -161,9 +161,9 @@ L'arrière plan est d'une couleur et le cercle d'une autre, pas de contour.
 ```
 primitive : int, float
 globale : width, height
-operateurs : = + > < - * ||
-methodes primaire : setup(), draw()
-methodes secondaire : size(), background(), fill(), ellipse()
+opérateurs : = + > < - * ||
+méthode primaire : setup(), draw()
+méthode secondaire : size(), background(), fill(), ellipse()
 condition : if
 itération :
 ```
@@ -185,9 +185,9 @@ L'exercice peut-être partielement réussit.
 ```
 primitive : int, float
 globale : width, height, mouseX, mouseY, mousePressed, keyPressed
-operateurs : = + > < - * || &&
-methodes primaire : setup(), draw()
-methodes secondaire : size(), background(), fill(), ellipse(), stroke(), noStroke(), rect(), abs(), sin(), cos()
+opérateurs : = + > < - * || &&
+méthode primaire : setup(), draw()
+méthode secondaire : size(), background(), fill(), ellipse(), stroke(), noStroke(), rect(), abs(), sin(), cos()
 condition : if, else
 itération :
 ```
