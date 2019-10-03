@@ -1,5 +1,8 @@
 # Code créatif Module 01
 
+## version
+v 0.0.2
+
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
 Un exercice est soit raté, soit réussit, sauf indication contraire.
@@ -31,7 +34,7 @@ Faire apparaitre un cercle qui suit le position de la souris.
 ```
 ```
 primitive : 
-globale : 
+globale : mouseX, mouseY
 opérateur : 
 méthode primaire : setup(), draw()
 méthode secondaire : size(), ellipse()
@@ -50,7 +53,7 @@ Une couleur pour l'arrière plan et une couleur pour le cercle, pas de contour.
 ```
 ```
 primitive : 
-globale : mousePressed
+globale : mouseX, mouseY, mousePressed
 opérateur : 
 méthode primaire : setup(), draw()
 méthode secondaire : size(), ellipse(), background()
@@ -68,7 +71,7 @@ Une couleur pour l'arrière plan et une couleur pour le cercle, pas de contour.
 ```
 ```
 primitive : 
-globale : mousePressed
+globale : mouseX, mouseY, mousePressed
 opérateur : 
 méthode primaire : setup(), draw()
 méthode secondaire : size(), ellipse(), background(), noStroke(), fill(), rect()
@@ -124,7 +127,7 @@ Un couleur pour la marge et deux couleurs pour les différents états du rectang
 ```
 ```
 primitive : int
-globale : mouseX, mouseY, idth, height
+globale : mouseX, mouseY, width, height
 opérateur : = > < && - *
 méthode primaire : setup(), draw()
 méthode secondaire : size(), background(), noStroke(), fill(), rect()
@@ -184,7 +187,7 @@ L'exercice peut-être partielement réussit.
 ```
 ```
 primitive : int, float
-globale : width, height, mouseX, mouseY, mousePressed, keyPressed
+globale : width, height, mouseX, mouseY, mousePressed, keyPressed, frameCount
 opérateurs : = + > < - * || &&
 méthode primaire : setup(), draw()
 méthode secondaire : size(), background(), fill(), ellipse(), stroke(), noStroke(), rect(), abs(), sin(), cos()
