@@ -1,7 +1,7 @@
 # Code créatif Module 01
 
 ## version
-v 0.0.2
+v 0.0.3
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -18,7 +18,10 @@ sous-dossier : exercice
 fichier : nom.pde
 ```
 
-* exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+* exemple 
+`Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+
+En cas d'échec sur le module, le sous-dossier module se nommera `m01_1`, puis `m01_2` mais le nom des sketches ne changera pas.
 
 contraintes : 
 respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
