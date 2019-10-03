@@ -1,25 +1,27 @@
-# Code créatif Module 01
+# Code créatif Module 01 mouvement
 
 ## version
 v 0.0.3
 
 ## objectif
+
 Réaliser à l'aide du langage Processing les exercices suivants.
 Un exercice est soit raté, soit réussit, sauf indication contraire.
 Chaque exercice rapporte des points, pour valider un module il faut obternir au moins 60% des points de l'ensemble du modules.
 Dés que la norme n'est pas respectée, l'exercice est considéré comme raté.
 
 L'ensemble des exercices sont à renvoyer par mail au correcteur en respectant l'arborescence et le nommage des dossiers, sous-dossiers et nom de fichiers. Si l'arborescence n'est pas respectée l'exercice ou le module ne seront pas corrigés et considérés comme ratés.
-Vous avez des listes de `primitive, globale, opérateur, méthode, condition` ou `itération que vous pourrez utiliser. Il n'est pas obligatoire de toutes les utiliser, par contre vous ne pouvez pas en utiliser d'autres.
+Vous avez des listes de `primitive, globale, opérateur, méthode, condition` ou `itération` que vous pourrez utiliser. Il n'est pas obligatoire de toutes les utiliser, par contre vous ne pouvez pas en utiliser d'autres.
+
+La taille de la fenêtre pourra être changée par le correcteur.
+
 ```
 dossier : nom prénom
 sous-dossier : module
-sous-dossier : exercice
-fichier : nom.pde
+sous-dossier : nom_exercice
+fichier : nom_exercice.pde
 ```
-
-* exemple 
-`Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+* exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
 
 En cas d'échec sur le module, le sous-dossier module se nommera `m01_1`, puis `m01_2` mais le nom des sketches ne changera pas.
 
