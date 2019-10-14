@@ -1,7 +1,7 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.0.3
+v 0.0.4
 
 ## objectif
 
@@ -32,7 +32,7 @@ respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/n
 ## m01_ex00_ellipse
 ```
 sketch : m01_ex00_ellipse.pde
-xp : 5
+xp : 5 / 70
 intitulé :
 Dans une fenêtre de 640 par 480.
 Faire apparaitre un cercle qui suit le position de la souris.
@@ -49,7 +49,7 @@ itération :
 ## m01_ex01_background
 ```
 sketch : m01_ex01_background.pde
-xp : 5
+xp : 10 / 70
 intitulé :
 Dans une fenêtre de 640 par 480.
 Faire apparaitre un cercle qui suit le position de la souris et laisse une trace permanente derrière lui.
@@ -68,7 +68,7 @@ itération :
 ## m01_ex02_couche_alpha
 ```
 sketch : m01_ex02_couche_alpha.pde
-xp : 5
+xp : 15 / 70
 intitulé :
 Dans une fenêtre de 640 par 480.
 Faire apparaitre un cercle qui suit le position de la souris et qui laisse une trace dérrière lui qui s'éfface petit à petit.
@@ -86,7 +86,7 @@ itération :
 ## m01_ex03_evolution
 ```
 sketch : m01_ex03_evolution.pde
-xp : 10
+xp : 20 / 70
 intitulé : 
 Dans une fenêtre de 640 par 480.
 Faire apparaitre un cercle qui croit et décroit de façon régulière et qui suit le position de la souris.
@@ -104,7 +104,7 @@ itération :
 ## m01_ex04_detection_1
 ```
 sketch : m01_ex04_detection_1.pde
-xp : 10
+xp : 30 / 70
 intitulé : 
 Dans une fenêtre de 640 par 480.
 À l'intérieur un rectangle sera placé au centre avec une marge de 50 pixels autour.
@@ -123,10 +123,10 @@ itération :
 ## m01_ex05_detection_2
 ```
 sketch : m01_ex05_detection_2.pde
-xp : 10
+xp : 35 / 70
 intitulé : 
 Dans une fenêtre de 640 par 480.
-A l'intérieur un rectangle sera placé au centre avec une marge de 50 pixels autour.
+À l'intérieur un rectangle sera placé au centre avec une marge de 50 pixels autour.
 Quand la souris sera dans la partie gauche de la fenêtre le rectangle sera d'une couleur, quand la souris sera dans l'autre le rectangle sera d'une autre couleur.
 Un couleur pour la marge et deux couleurs pour les différents états du rectangle, pas de contour.
 ```
@@ -142,7 +142,7 @@ itération :
 ## m01_ex06_mvt_1
 ```
 sketch : m01_ex06_mvt_1.pde
-xp : 5
+xp : 45 / 70
 intitulé : 
 Dans une fenêtre de 640 par 480. 
 Créer un cercle de couleur qui se déplace de gauche à droite en descendant et sans laisser de trace.
@@ -160,7 +160,7 @@ itération :
 ## m01_ex07_mvt_2
 ```
 sketch : m01_ex07_mvt_2.pde
-xp : 10
+xp : 55 / 70
 intitulé : 
 Dans une fenêtre de 640 par 480.
 Créer un cercle de couleur qui se déplace et rebondit sur les paroies dés qu'un des côtés de celui-ci est en contact avec une des paroies de la fenêtre.
@@ -178,7 +178,7 @@ itération :
 ## m01_ex08_extraball
 ```
 sketch : m01_ex08_extraball.pde
-xp : 30
+xp : 70 / 70
 intitulé : 
 Dans une fenêtre de 640 par 480.
 Créer un cercle de couleur qui se déplace et rebondit sur les paroies. 
