@@ -1,7 +1,7 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.0.4
+v 0.1.0
 
 ## objectif
 
@@ -17,13 +17,12 @@ La taille de la fenêtre pourra être changée par le correcteur.
 
 ```
 dossier : nom prénom
-sous-dossier : module
-sous-dossier : nom_exercice
-fichier : nom_exercice.pde
+sous-dossier : m##
+sous-dossier : m##_ex##_nom
+fichier :  m##_ex##_nom.pde
 ```
 * exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
 
-En cas d'échec sur le module, le sous-dossier module se nommera `m01_1`, puis `m01_2`etc. Mais le nom des sketches ne changera pas.
 
 contraintes : 
 respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
