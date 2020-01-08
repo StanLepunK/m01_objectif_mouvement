@@ -1,12 +1,12 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.1.0
+v 0.1.1
 
 ## objectif
 
 Réaliser à l'aide du langage Processing les exercices suivants.
-Un exercice est soit raté, soit réussit, sauf indication contraire.
+Un exercice est soit raté, soit réussit.
 Chaque exercice rapporte des points, pour valider un module il faut obternir au moins 60% des points de l'ensemble du modules.
 Dés que la norme n'est pas respectée, l'exercice est considéré comme raté.
 
@@ -14,6 +14,8 @@ L'ensemble des exercices sont à renvoyer par mail au correcteur en respectant l
 Vous avez des listes de `primitive, globale, opérateur, méthode, condition` ou `itération` que vous pourrez utiliser. Il n'est pas obligatoire de toutes les utiliser, par contre vous ne pouvez pas en utiliser d'autres.
 
 La taille de la fenêtre pourra être changée par le correcteur.
+
+Toutes les consignes sont valables pour l'ensemble du module sauf indication contraire.
 
 ```
 dossier : nom prénom
