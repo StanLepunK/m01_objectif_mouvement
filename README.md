@@ -122,7 +122,7 @@ sketch : m01_ex05_detection_2.pde
 intitulé : 
 Dans une fenêtre de 640 par 480.
 À l'intérieur un rectangle sera placé au centre avec une marge de 50 pixels autour.
-Quand la souris sera dans la partie gauche de la fenêtre le rectangle sera d'une couleur, quand la souris sera dans l'autre le rectangle sera d'une autre couleur.
+Quand la souris sera dans le rectangle celui-ci changera de couleur.
 Un couleur pour la marge et deux couleurs pour les différents états du rectangle, pas de contour.
 ```
 ```
