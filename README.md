@@ -78,7 +78,7 @@ globale : mouseX, mouseY, mousePressed
 opérateur : 
 méthode primaire : setup(), draw()
 méthode secondaire : size(), ellipse(), background(), noStroke(), fill(), rect()
-condition :
+condition : if
 itération :
 ```
 ## m01_ex03_evolution
