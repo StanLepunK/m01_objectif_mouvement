@@ -1,7 +1,7 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.1.2
+v 0.1.3
 
 ## objectif
 
@@ -68,8 +68,9 @@ itération :
 sketch : m01_ex02_couche_alpha.pde
 intitulé :
 Dans une fenêtre de 640 par 480.
-Faire apparaitre un cercle qui suit le position de la souris et qui laisse une trace dérrière lui qui s'éfface petit à petit.
+Faire apparaitre un cercle ou un rectangle qui suit le position de la souris et qui laisse une trace dérrière lui qui s'éfface petit à petit.
 Une couleur pour l'arrière plan et une couleur pour le cercle, pas de contour.
+Quand on clique avec souris toutes trace diparait.
 ```
 ```
 primitive : 
