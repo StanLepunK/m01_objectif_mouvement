@@ -1,7 +1,7 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.1.3
+v 0.1.4
 
 ## objectif
 
@@ -78,7 +78,7 @@ globale : mouseX, mouseY, mousePressed
 opérateur : 
 méthode primaire : setup(), draw()
 méthode secondaire : size(), ellipse(), background(), noStroke(), fill(), rect()
-condition : if
+condition : if, else
 itération :
 ```
 ## m01_ex03_evolution
