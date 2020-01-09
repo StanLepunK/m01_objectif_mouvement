@@ -1,7 +1,7 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.1.4
+v 0.1.5
 
 ## objectif
 
@@ -104,7 +104,7 @@ sketch : m01_ex04_detection_1.pde
 intitulé : 
 Dans une fenêtre de 640 par 480.
 À l'intérieur un rectangle sera placé au centre avec une marge de 50 pixels autour.
-Quand la souris passeras sur le rectangle celui-ci changera de couleur.
+Quand la souris dans la moitié gauche de la fenêtre le rectangle celui-ci changera de couleur.
 Un couleur pour la marge et deux couleurs pour les différents états du rectangle, pas de contour.
 ```
 ```
