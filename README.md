@@ -1,7 +1,7 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.1.5
+v 0.1.7
 
 ## objectif
 
@@ -144,7 +144,7 @@ L'arrière plan est d'une couleur et le cercle d'une autre, pas de contour.
 ```
 ```
 primitive : int, float
-globale : 10
+globale : width, height
 opérateur : = + >
 méthode primaire : setup(), draw()
 méthode secondaire : size(), background(), noStroke(), fill(), ellipse()
