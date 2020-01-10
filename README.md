@@ -1,7 +1,7 @@
 # Code créatif Module 01 mouvement
 
 ## version
-v 0.1.7
+v 0.1.8
 
 ## objectif
 
@@ -23,7 +23,7 @@ sous-dossier : m##
 sous-dossier : m##_ex##_nom
 fichier :  m##_ex##_nom.pde
 ```
-* exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+* exemple `Maurice_Dupont/m00/m00_ex00_truc/m00_ex00_truc.pde`
 
 
 contraintes : 
